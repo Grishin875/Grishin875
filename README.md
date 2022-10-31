@@ -1,4 +1,4 @@
-![Header](https://github.com/Grishin875/Grishin875/blob/main/assets/assets.jpg)
+![Header](https://github.com/Grishin875/Grishin875/blob/main/752a294d-78b5-4ecf-97f4-a6247816313c.jpg)
 
 
 ## Добро пожаловать в мир разработок 👋
