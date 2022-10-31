@@ -5,8 +5,8 @@
 ## Меня зовут Кирилл и я начинающий Front-end разработчик
 
 ## Мой стек:
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS)
-
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=SASS)
+![JS](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 Social network
