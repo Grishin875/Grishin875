@@ -1,7 +1,7 @@
 ![Header](https://github.com/Grishin875/Grishin875/blob/main/assets/assets.jpg)
 
 
-About_me
+## I'm  beginner Frontend Developer
 
 Languages and tools 
 
