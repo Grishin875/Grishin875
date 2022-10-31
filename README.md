@@ -3,7 +3,7 @@
 
 ## I'm  beginner Frontend Developer
 
-Languages and tools 
-
+## Languages and Tools 
+![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 
 Social network
