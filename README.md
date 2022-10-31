@@ -1,9 +1,11 @@
 ![Header](https://github.com/Grishin875/Grishin875/blob/main/assets/assets.jpg)
 
 
-## I'm  beginner Frontend Developer
+## Добро пожаловать в мир разработок 👋
 
-## Languages and Tools 
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
+## Меня зовут Кирилл и я начинающий Front-end разработчик
+
+## Мой стек:
+![React](https://img.shields.io/badge/React-?style=flat&logo=react)
 
 Social network
