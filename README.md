@@ -4,8 +4,5 @@
 ## Добро пожаловать в мир разработок 👋
 
 ## Мой стек:
-![HTML](https://img.shields.io/badge/HTML5-important?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=SASS)
-![JS](https://img.shields.io/badge/JavaScript-brown?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
